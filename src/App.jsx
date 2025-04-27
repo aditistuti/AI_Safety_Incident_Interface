@@ -1,4 +1,4 @@
-import IncidentDashboard from './IncidentDashboard';
+import IncidentDashboard from './Components/IncidentDashboard';
 function App() {
   return <IncidentDashboard />;
 }
