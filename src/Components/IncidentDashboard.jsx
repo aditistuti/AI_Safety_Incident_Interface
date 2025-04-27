@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import '../style/incidentDashboard.css';
+import '../style/IncidentDashboard.css';
 import Incident from './Incident';
 import Form from './Form';
 
